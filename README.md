@@ -1,4 +1,4 @@
 # ObjCowSceneKitDemo
 Old SceneKit project on xcode 
 
-![Screenshot](screenshot.png)
+![Screenshot](screenShot.png)
